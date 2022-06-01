@@ -1,4 +1,4 @@
-# Ola! Clone da Interface do Instagram. 🙃
+# Ola! Criamos o clone da Interface do Instagram. 🙃
 
 Este projeto é o resultado da aula Flexbox: Fundamentos da "DIO.me".
 
