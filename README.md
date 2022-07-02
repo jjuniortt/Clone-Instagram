@@ -8,8 +8,6 @@ Nosso principal objetivo foi trabalhar na montagem de um layout simples, porém 
 Para a conclusão do módulo, criamos a interface do Instagram a partir das duas tecnologias que fazem parte da base de qualquer aplicação web - HTML e CSS.
 
 ### Habilidades necessárias para montar a aplicação:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git)](https://skillicons.dev)
 
 ## Vamos codar! 🚀
