@@ -1,4 +1,4 @@
-# Ola! Criamos o clone da Interface do Instagram. 🙃
+# Ola! Criamos um clone da Interface do Instagram. 🙃
 
 <strong>Plataforma de Estudos:</strong> "DIO.me"<br>
 <strong>Bootcamp:</strong> HTML Web Developer - Recriando Página Inicial do Instagram.
