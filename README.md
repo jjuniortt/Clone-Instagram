@@ -10,7 +10,7 @@ Para a conclusão do módulo, criamos a interface do Instagram a partir das duas
 Veja abaixo as habilidades necessárias para montar essa aplicação e disponibilizar no GitHub: </br>
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/25811685/177084470-6c16f7f5-b5ba-4b79-85f5-561fe3f43a7a.png" width="400px" />
+<img src="https://user-images.githubusercontent.com/25811685/178001169-e59696db-04d6-482e-89db-3c79a78c1868.png" width="400px" />
 </div></br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,git)](https://skillicons.dev)
